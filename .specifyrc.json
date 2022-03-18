@@ -4,7 +4,7 @@
   "rules": [
     {
       "name": "Design Tokens / Colors",
-      "path": "tokens",
+      "path": "",
       "filter": {
         "types": ["color"]
       },
