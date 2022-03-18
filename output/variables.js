@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 18 Mar 2022 15:28:52 GMT
+ * Generated on Fri, 18 Mar 2022 15:32:52 GMT
  */
 
 export const ColorBaseWarning50 = "#fffbeb";
