@@ -4,8 +4,8 @@
   "rules": [
     {
       "name": "Design Tokens / Colors",
-      "path": "assets/styles/variables/colors.css",
-      "filter":{
+      "path": "tokens",
+      "filter": {
         "types": ["color"]
       },
       "parsers": [
@@ -16,7 +16,10 @@
           }
         },
         {
-          "name": "to-css-custom-properties"
+          "name": "to-style-dictionary",
+          "options": {
+            "splitBy": "/"
+          }
         }
       ]
     }
