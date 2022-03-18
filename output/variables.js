@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 18 Mar 2022 15:32:52 GMT
+ * Generated on Fri, 18 Mar 2022 17:11:04 GMT
  */
 
 export const ColorBaseWarning50 = "#fffbeb";
@@ -18,7 +18,7 @@ export const ColorBaseSuccess100 = "#dcfce7";
 export const ColorBaseSuccess200 = "#bbf7d0";
 export const ColorBaseSuccess300 = "#86efac";
 export const ColorBaseSuccess400 = "#4ade80";
-export const ColorBaseSuccess500 = "#c222c5";
+export const ColorBaseSuccess500 = "#c2c522";
 export const ColorBaseSuccess600 = "#16a34a";
 export const ColorBaseSuccess700 = "#15803d";
 export const ColorBaseSuccess800 = "#166534";
